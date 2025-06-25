@@ -1,0 +1,1 @@
+# Just my repository for what i learning so far in python mostly for fun :)
