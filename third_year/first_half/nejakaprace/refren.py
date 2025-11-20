@@ -1,0 +1,16 @@
+def refren():
+    print("It's always around me, all this noise")
+    print("But not nearly as loud as the voice saying")
+    print("\"Let it happen, let it happen\" (it's gonna feel so good)")
+    print("Just let it happen, let it happen")
+
+refren()
+refren()
+print()
+print("All this running around")
+print("Trying to cover my shadow")
+print("An ocean of static")
+print("Now all the others seem shallow")
+print()
+refren()
+refren()

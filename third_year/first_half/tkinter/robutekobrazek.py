@@ -1,0 +1,15 @@
+import tkinter as tk # zkratil jsem si tkinter na tk 
+
+root = tk.Tk()
+canvas = tk.Canvas(root, width=300, height=400, bg="white")
+canvas.pack()
+canvas.create_rectangle(100, 150, 200, 300)
+canvas.create_rectangle(110, 80, 190, 150)
+canvas.create_rectangle(125, 100, 140, 115)
+canvas.create_rectangle(160, 100, 175, 115)
+canvas.create_rectangle(140, 130, 160, 140)
+canvas.create_rectangle(70, 170, 100, 250)
+canvas.create_rectangle(200, 170, 230, 250)
+canvas.create_rectangle(120, 300, 140, 370)
+canvas.create_rectangle(160, 300, 180, 370)
+root.mainloop()
