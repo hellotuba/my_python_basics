@@ -1,48 +1,27 @@
-<h1 align="center">
-  🌑 my_python_basics  
-</h1>
+# my_python_basics
 
-<p align="center">
-  <i>A small corner of the internet where I mess around with Python.</i>
-</p>
+Python scripts I wrote while figuring things out. No theme, no roadmap.
+
+Some of it works. Some of it was just me testing something at midnight and forgetting to delete it.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
-  <img src="https://img.shields.io/badge/Just%20For-Fun-black?style=flat-square">
-  <img src="https://img.shields.io/badge/Status-Random%20Experiments-black?style=flat-square">
-</p>
+## what's in here
+
+Quick tests, tiny utilities, half-finished ideas. Stuff I wrote while learning something and didn't want to lose.
+
+Don't expect polish.
 
 ---
 
-## 🖤 What is this?
-
-Nothing fancy.  
-Nothing official.  
-Just a place where I try things, break things, learn things, and leave tiny Python scripts behind.
-
-It’s basically my digital notebook — but messier.
-
----
-
-## 🐍 What You Might Find
-
-- quick tests  
-- tiny scripts  
-- random experiments  
-- stuff I made while learning  
-- things I forgot I wrote  
-
-No guarantees that anything here is useful 😄
-
----
-
-## 💾 If You *Do* Want to Run Something
-
-Sure, go ahead:
+## running something
 
 ```bash
 git clone https://github.com/hellotuba/my_python_basics
 cd my_python_basics
 python whatever.py
+```
+
+---
+
+*The file is probably called `whatever.py`.*
